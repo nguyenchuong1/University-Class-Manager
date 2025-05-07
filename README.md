@@ -5,12 +5,11 @@ University Class Manager là một phần mềm quản lý khóa học và quả
 ## Demo 
 
 [Watch the demo video](https://drive.google.com/file/d/19GSH1HFjUcdA9A_EMB9o977_UVv8SMES/view?usp=sharing)
+
 ## Công nghệ chính
 - *Python*
-- *Tkinter (GUI)*
 - *SQLite (Database)*
-- *Excel (dữ liệu đầu ra)*
-- *smtplib (gửi email)*
+
 
 ## Cài đặt và thiết lập
 Để thiết lập và chạy Dự án University Class Manager, hãy làm theo các bước dưới đây:
