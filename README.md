@@ -2,7 +2,9 @@
 
 ## Về University Class Manager
 University Class Manager là một phần mềm quản lý khóa học và quản lý sinh viên tại trường đại học. Phần mềm được xây dựng bằng Python với giao diện Tkinter, hỗ trợ các chức năng tìm kiếm, thêm/xóa/sửa thông tin sinh viên, quản lý điểm danh, cảnh báo học vụ qua email, và tổng hợp báo cáo tự động gửi cho quản lý.
+## Demo 
 
+[Watch the demo video](https://drive.google.com/file/d/19GSH1HFjUcdA9A_EMB9o977_UVv8SMES/view?usp=sharing)
 ## Công nghệ chính
 - *Python*
 - *Tkinter (GUI)*
